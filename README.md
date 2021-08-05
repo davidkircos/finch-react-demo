@@ -15,4 +15,5 @@ Run the app
 `yarn install`
 `yarn start`
 
-![Screenshot](https://github.com/davidkircos/finch-react-demo/blob/master/screencapture.png?raw=true)
+## Screenshot
+![Screenshot](https://raw.githubusercontent.com/davidkircos/finch-react-demo/main/screencapture.png)
